@@ -2,3 +2,4 @@
 
 * [Day 0 - 7 Habits of Highly Effective Developers presentation](https://github.com/edbartram/100DaysOfCode/blob/master/log/Day0.md)
 * [Day 1 - Started learning Python and Cloud 9 IDE](https://github.com/edbartram/100DaysOfCode/blob/master/log/Day1.md)
+* [Day 2 - Python Exercises on my Chromebook](https://github.com/edbartram/100DaysOfCode/blob/master/log/Day2.md)
